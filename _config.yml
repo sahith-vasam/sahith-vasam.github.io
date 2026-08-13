@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: My name is Sahith and I am a atudent at University of Washington exploring engineering careers related to robotics and manufacturing.\nYou can find my resume here
+about_me_description: My name is Sahith and I am a atudent at University of Washington exploring engineering careers related to robotics and manufacturing.<br>You can find my resume here
 
 # SKILLS SECTION
 # show_skills_card:
