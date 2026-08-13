@@ -56,7 +56,13 @@ a {
 
   &:hover {
     color: $text-color;
-  }
+  } 
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .highlight-title {
