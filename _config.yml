@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Email: <a class="highlight-link" href="mailto:sahith.vasam@proton.me" target="_blank" rel="noreferrer">sahith.vasam@proton.me</a>
+contact_description: Email: sahith.vasam@proton.me<br>Phone: +1 (425)-502-1380
 #<a class="highlight-link" href="mailto:sahith.vasam@proton.me" target="_blank" rel="noreferrer">sahith.vasam@proton.me</a>
 #<a class="highlight-link" href="tel:+14255021380" target="_blank" rel="noreferrer">+1 (425)-502-1380</a>
 
