@@ -18,4 +18,13 @@
 - name: "World's Fastest Drone"
   descr: "I collaborated with a team of seven in order to try and create the world's fastest quadcopter drone. We developed the outer shell, the internal frame to hold the components, and a water box designed to cool the drone in flight. Designed in Solidworks, the drone is 3D printed with a carbon fiber frame. The max speed of the drone is over 400 meters per second."
   image: "/assets/projects/WorldsFastestDroneOverview.png"
-  demo: https://example.com/
+
+- name: "Helical Gearbox Design"
+  descr: "I designed a helical gearbox using Solidworks in order to practice working with gears and gear ratios. The project contained over twenty parts including the cover, gears, cuffs, and keys. The gearbox includes two stages with a total gear ratio of 10:1. Since I am now more experienced with gears, my next step is to design a transmission."
+  image: "/assets/projects/Helical\ Gearbox\ Assembly.gif"
+
+- name: "Manual Transmission Design"
+  descr: "Work in Progress"
+
+- name: "Injection Mold Design for Knob"
+  descr: "Work in Progress"
